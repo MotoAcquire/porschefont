@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'PorscheNextWCy';
+  src: url('fonts/PorscheNextWCy-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PorscheNextWCy';
+  src: url('fonts/PorscheNextWCy-BoldItalic.woff2') format('woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PorscheNextWCy';
+  src: url('fonts/PorscheNextWCy-Italic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PorscheNextWCy';
+  src: url('fonts/PorscheNextWCy-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PorscheNextWCy';
+  src: url('fonts/PorscheNextWCy-Thin.woff2') format('woff2');
+  font-weight: 100; /* Thin */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PorscheNextWCy';
+  src: url('fonts/PorscheNextWCy-ThinItalic.woff2') format('woff2');
+  font-weight: 100; /* Thin Italic */
+  font-style: italic;
+}
